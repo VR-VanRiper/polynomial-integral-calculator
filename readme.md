@@ -18,7 +18,7 @@ Terdapat 3 modul pada program.
 
 1. home.js
 
-Program utama untuk menampilkan plihan integral kepada pengguna dan memanggil modul lainnya. Terdaoat opsi untuk mengulang program juga.
+Program utama untuk menampilkan pilihan kalkulator integral kepada pengguna dan memanggil modul lainnya. Terdapat opsi untuk mengulang program juga.
 
 2. polynomial.js
 

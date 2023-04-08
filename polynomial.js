@@ -1,8 +1,27 @@
 const readline = require('readline-sync');
 function polynomial() {
     console.log("");
-    const polim = require('./polim.js');
-    const [suku, varPol] = polim();
+    let suku;
+    let varPol;
+
+    while (true) {
+      suku = parseInt(readline.question('Masukkan jumlah suku dalam polinomial: '));
+      if (isNaN(suku) || suku <= 0) {
+        console.log('Masukkan invalid, coba kembali');
+      } else {
+        break;
+      }
+    }
+
+    while (true) {
+      varPol = readline.question('Masukkan variabel dari polinomial: ');
+      if (!varPol.match(/^[a-zA-Z]+$/)) {
+        console.log('Masukkan invalid, coba kembali. Variabel hanya bisa berupa huruf!');
+      } else {
+        break;
+      }
+    }
+
     console.log("");
 
     let koef = [];

@@ -12,7 +12,7 @@ Overview: A basic and primitive JavaScript program that will solve definite and 
 2. jshint
 
 ## Guide
-There is'nt much to add here,  the program is pretty self-explanatory to use. 
+There isn't much to add here,  the program is pretty self-explanatory to use. 
 
 Terdapat 3 modul pada program.
 

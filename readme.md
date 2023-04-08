@@ -26,8 +26,8 @@ Program untuk menambilkan terlebih dahulu bentuk polinomial yang telah dimasukka
 
 3. integralTaktentu.js
 
-Program untuk menambilkan hasil integral tak tentu dari bentuk polinomial yang telah dimasukkan pengguna. Suku yang memiliki eksponen -1 akan menghasilkan logaritma natural sesuai metode cavalieri.
+Program untuk menambilkan hasil integral tak tentu dari bentuk polinomial yang telah dimasukkan pengguna. Suku yang memiliki eksponen -1 akan menghasilkan logaritma natural sesuai dengan metode Cavalieri.
 
 4. integralTentu.js
 
-Program untuk menambilkan hasil akhir integral tentu dari bentuk polinomial yang telah dimasukkan pengguna. Suku yang memiliki eksponen -1 akan menghasilkan logaritma natural sesuai metode cavalieri.
+Program untuk menambilkan hasil akhir integral tentu dari bentuk polinomial yang telah dimasukkan pengguna. Suku yang memiliki eksponen -1 akan menghasilkan logaritma natural sesuai dengan metode Cavalieri.
